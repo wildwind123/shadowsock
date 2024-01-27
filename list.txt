@@ -1,1 +1,11 @@
-c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbFpqaFJPRVpGZDJWWFdrcHBaRzQ0UW10c1JrWjNANDUuMTIwLjE3OC44MTozNzE1NS8/b3V0bGluZT0x
+[
+{
+"server": "45.120.178.81",
+"server_port": 37155,
+"password": "ef8Q8FEweWZJidn8BklFFw",
+"method": "chacha20-ietf-poly1305",
+"plugin": "",
+"plugin_opts": null,
+"remarks": "Niderland"
+}
+]
